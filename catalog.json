@@ -1,0 +1,302 @@
+{
+  "version": 1,
+  "generated": "2026-04-17T08:10:54Z",
+  "articles": [
+    {
+      "category": "beredskap",
+      "title": "Beredskapslager for én uke",
+      "file": "articles/beredskap/beredskapslager-for-én-uke.md",
+      "checksum": "d6329098bd64a37d",
+      "id": 1,
+      "sortOrder": 1
+    },
+    {
+      "category": "beredskap",
+      "title": "Informasjon uten strøm og telefon",
+      "file": "articles/beredskap/informasjon-uten-strom-og-telefon.md",
+      "checksum": "54f469486f03e27b",
+      "id": 2,
+      "sortOrder": 2
+    },
+    {
+      "category": "beredskap",
+      "title": "Oppholdssteder i kriser",
+      "file": "articles/beredskap/oppholdssteder-i-kriser.md",
+      "checksum": "e8bd81fd5e0fc522",
+      "id": 3,
+      "sortOrder": 3
+    },
+    {
+      "category": "beredskap",
+      "title": "Tilfluktsrom",
+      "file": "articles/beredskap/tilfluktsrom.md",
+      "checksum": "bf45ccc6844317d1",
+      "id": 4,
+      "sortOrder": 4
+    },
+    {
+      "category": "beredskap",
+      "title": "Varsling i kriser",
+      "file": "articles/beredskap/varsling-i-kriser.md",
+      "checksum": "6e27bd191b94bfc2",
+      "id": 5,
+      "sortOrder": 5
+    },
+    {
+      "category": "dyr",
+      "title": "Møte dyr i naturen",
+      "file": "articles/dyr/mote-dyr-i-naturen.md",
+      "checksum": "6ee06169c837fa7b",
+      "id": 6,
+      "sortOrder": 1
+    },
+    {
+      "category": "fjellvettreglene",
+      "title": "Fjellvettreglene",
+      "file": "articles/fjellvettreglene/fjellvettreglene.md",
+      "checksum": "d7fd1e6617de9354",
+      "id": 7,
+      "sortOrder": 1
+    },
+    {
+      "category": "forstehjelp",
+      "title": "Grunnleggende førstehjelp på tur",
+      "file": "articles/forstehjelp/grunnleggende-forstehjelp-pa-tur.md",
+      "checksum": "651cbc9079baa52e",
+      "id": 8,
+      "sortOrder": 1
+    },
+    {
+      "category": "forstehjelp",
+      "title": "Vanlige turskader",
+      "file": "articles/forstehjelp/vanlige-turskader.md",
+      "checksum": "1903eead2be85df5",
+      "id": 9,
+      "sortOrder": 2
+    },
+    {
+      "category": "giftigeArter",
+      "title": "Farlige sopp i norsk skog",
+      "file": "articles/giftigeArter/farlige-sopp-i-norsk-skog.md",
+      "checksum": "ddf8a3af3b0f2288",
+      "id": 10,
+      "sortOrder": 1
+    },
+    {
+      "category": "ly",
+      "title": "Bygg nødly i naturen",
+      "file": "articles/ly/bygg-nodly-i-naturen.md",
+      "checksum": "445ec36f7543489e",
+      "id": 11,
+      "sortOrder": 1
+    },
+    {
+      "category": "ly",
+      "title": "Velge riktig leirplass",
+      "file": "articles/ly/velge-riktig-leirplass.md",
+      "checksum": "1a7511387ebc762e",
+      "id": 12,
+      "sortOrder": 2
+    },
+    {
+      "category": "mat",
+      "title": "Brennstoff for langtur",
+      "file": "articles/mat/brennstoff-for-langtur.md",
+      "checksum": "9cf7d126be1e7afe",
+      "id": 13,
+      "sortOrder": 1
+    },
+    {
+      "category": "mat",
+      "title": "Energiunderskudd i kulde",
+      "file": "articles/mat/energiunderskudd-i-kulde.md",
+      "checksum": "9c8bc0a0152d9449",
+      "id": 14,
+      "sortOrder": 2
+    },
+    {
+      "category": "mat",
+      "title": "Fiske uten utstyr",
+      "file": "articles/mat/fiske-uten-utstyr.md",
+      "checksum": "351ed26e62cd87b2",
+      "id": 15,
+      "sortOrder": 3
+    },
+    {
+      "category": "mat",
+      "title": "Spiselige planter i norsk natur",
+      "file": "articles/mat/spiselige-planter-i-norsk-natur.md",
+      "checksum": "c15a0bdc586d9485",
+      "id": 16,
+      "sortOrder": 4
+    },
+    {
+      "category": "mentaleStrategier",
+      "title": "Mentale strategier på tur",
+      "file": "articles/mentaleStrategier/mentale-strategier-pa-tur.md",
+      "checksum": "858defc969ecc49f",
+      "id": 17,
+      "sortOrder": 1
+    },
+    {
+      "category": "nodprosedyrer",
+      "title": "Nødprosedyrer og signalering",
+      "file": "articles/nodprosedyrer/nodprosedyrer-og-signalering.md",
+      "checksum": "7ff4ab3a03e97f2c",
+      "id": 18,
+      "sortOrder": 1
+    },
+    {
+      "category": "nodprosedyrer",
+      "title": "Varsle i nødsituasjon",
+      "file": "articles/nodprosedyrer/varsle-i-nodsituasjon.md",
+      "checksum": "5925da6ae8f768f9",
+      "id": 19,
+      "sortOrder": 2
+    },
+    {
+      "category": "orientering",
+      "title": "Bruke kart og kompass",
+      "file": "articles/orientering/bruke-kart-og-kompass.md",
+      "checksum": "f533f65982d4797b",
+      "id": 20,
+      "sortOrder": 1
+    },
+    {
+      "category": "orientering",
+      "title": "Finn veien uten kart og kompass",
+      "file": "articles/orientering/finn-veien-uten-kart-og-kompass.md",
+      "checksum": "2fbce16bbb40253c",
+      "id": 21,
+      "sortOrder": 2
+    },
+    {
+      "category": "rettigheter",
+      "title": "Allemannsretten på tur",
+      "file": "articles/rettigheter/allemannsretten-pa-tur.md",
+      "checksum": "4d1aa986b8714108",
+      "id": 22,
+      "sortOrder": 1
+    },
+    {
+      "category": "utstyr",
+      "title": "Fottøy om vinteren",
+      "file": "articles/utstyr/fottoy-om-vinteren.md",
+      "checksum": "5703d41ca6379b55",
+      "id": 23,
+      "sortOrder": 1
+    },
+    {
+      "category": "utstyr",
+      "title": "Strøm på tur",
+      "file": "articles/utstyr/strom-pa-tur.md",
+      "checksum": "ea37b0be6e610314",
+      "id": 24,
+      "sortOrder": 2
+    },
+    {
+      "category": "vann",
+      "title": "Elvekryssing og vannfare",
+      "file": "articles/vann/elvekryssing-og-vannfare.md",
+      "checksum": "a15fb4eb1c6cf624",
+      "id": 25,
+      "sortOrder": 1
+    },
+    {
+      "category": "vann",
+      "title": "Finne og rense drikkevann",
+      "file": "articles/vann/finne-og-rense-drikkevann.md",
+      "checksum": "ef636f5d751f4e24",
+      "id": 26,
+      "sortOrder": 2
+    },
+    {
+      "category": "vann",
+      "title": "Vannkilder i fjellet",
+      "file": "articles/vann/vannkilder-i-fjellet.md",
+      "checksum": "52b96fbe26cb7c35",
+      "id": 27,
+      "sortOrder": 3
+    },
+    {
+      "category": "varme",
+      "title": "Bekledningsdisiplin",
+      "file": "articles/varme/bekledningsdisiplin.md",
+      "checksum": "041d5945d7303440",
+      "id": 28,
+      "sortOrder": 1
+    },
+    {
+      "category": "varme",
+      "title": "Forebygg og håndter hypotermi",
+      "file": "articles/varme/forebygg-og-handter-hypotermi.md",
+      "checksum": "9baae78f5abc35ed",
+      "id": 29,
+      "sortOrder": 2
+    },
+    {
+      "category": "varme",
+      "title": "Kameratsjekk og kuldeskader",
+      "file": "articles/varme/kameratsjekk-og-kuldeskader.md",
+      "checksum": "7bd2ab2a45b54aaf",
+      "id": 30,
+      "sortOrder": 3
+    },
+    {
+      "category": "varme",
+      "title": "Lage bål",
+      "file": "articles/varme/lage-bal.md",
+      "checksum": "1b7112259d47dd04",
+      "id": 31,
+      "sortOrder": 4
+    },
+    {
+      "category": "varme",
+      "title": "Tørke klær uten bål",
+      "file": "articles/varme/torke-klaer-uten-bal.md",
+      "checksum": "9d58ed3cc471ca3b",
+      "id": 32,
+      "sortOrder": 5
+    },
+    {
+      "category": "vaer",
+      "title": "Luftkvalitet",
+      "file": "articles/vaer/luftkvalitet.md",
+      "checksum": "5903a77a5beeb2ff",
+      "id": 33,
+      "sortOrder": 1
+    },
+    {
+      "category": "vaer",
+      "title": "Lufttrykk",
+      "file": "articles/vaer/lufttrykk.md",
+      "checksum": "c53a5450ca470cec",
+      "id": 34,
+      "sortOrder": 2
+    },
+    {
+      "category": "vaer",
+      "title": "Nedbør",
+      "file": "articles/vaer/nedbor.md",
+      "checksum": "e216c01992bb28b1",
+      "id": 35,
+      "sortOrder": 3
+    },
+    {
+      "category": "vaer",
+      "title": "UV-stråling",
+      "file": "articles/vaer/uv-straling.md",
+      "checksum": "8abd455389fe3fb3",
+      "id": 36,
+      "sortOrder": 4
+    },
+    {
+      "category": "vaer",
+      "title": "Vind og Beaufortskalaen",
+      "file": "articles/vaer/vind-og-beaufortskalaen.md",
+      "checksum": "29e97031947e2889",
+      "id": 37,
+      "sortOrder": 5
+    }
+  ]
+}
