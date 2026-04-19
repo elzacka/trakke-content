@@ -1,7 +1,8 @@
-## Ly
+## Ly og overnatting
 
-### Bygg nødly i naturen
-Et nødly beskytter mot vind, regn og kulde. I en nødsituasjon bør du finne eller bygge ly før det blir mørkt — helst før du blir for kald til å gjøre det.
+### Bygg ly i naturen
+#### Bygg ly i naturen
+Et ly beskytter mot vind, regn og kulde. I en nødsituasjon bør du finne eller bygge ly før det blir mørkt — helst før du blir for kald til å gjøre det.
 
 #### Bruk det naturen gir
 Se etter bergvegger, overheng, tett granskog eller store rotvelt som kan gi umiddelbar beskyttelse mot vind og regn.
@@ -45,6 +46,6 @@ Ved mistanke om kullosforgiftning: Flytt personen til frisk luft umiddelbart. Sl
 
 **Kilder**
 
-- [Snu i tide — Kullosforgiftning](https://snuitide.no/innhold/frstehjelp-p-tur/kullosforgiftning)
 - [Snu i tide — Presenning og tarp](https://snuitide.no/innhold/overnatting/presenning-tarp)
 - [Snu i tide — Sove i snøen](https://snuitide.no/innhold/overnatting/sove-i-snen)
+-  [Snu i tide — Kullosforgiftning](https://snuitide.no/innhold/frstehjelp-p-tur/kullosforgiftning)

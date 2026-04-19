@@ -1,6 +1,7 @@
-## Ly
+## Ly i naturen
 
 ### Velge riktig leirplass
+#### Velge riktig leirplass
 Hvor du setter opp leir kan utgjøre forskjellen mellom en god og en dårlig (i noen tilfeller farlig) natt ute.
 
 #### Gode leirplasser

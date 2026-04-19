@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-04-19T12:05:31Z",
+  "generated": "2026-04-19T13:12:18Z",
   "articles": [
     {
       "category": "beredskap",
@@ -12,9 +12,9 @@
     },
     {
       "category": "beredskap",
-      "title": "Informasjon uten strøm og telefon",
+      "title": "Informasjon og kommunikasjon",
       "file": "articles/beredskap/informasjon-og-kommunikasjon.md",
-      "checksum": "fb46591edb5caa00",
+      "checksum": "5b1aed5068f13cf7",
       "id": 2,
       "sortOrder": 2
     },
@@ -44,18 +44,26 @@
     },
     {
       "category": "dyr",
-      "title": "Møte dyr i naturen",
-      "file": "articles/dyr/dyremøter-og-innsektbitt.md",
-      "checksum": "397d454e7858339e",
+      "title": "Insektbitt",
+      "file": "articles/dyr/innsektbitt.md",
+      "checksum": "6a56d08940f0e4ee",
       "id": 6,
       "sortOrder": 1
+    },
+    {
+      "category": "dyr",
+      "title": "Møte dyr i naturen",
+      "file": "articles/dyr/mote-dyr-i-naturen.md",
+      "checksum": "8a0639800fb2587e",
+      "id": 7,
+      "sortOrder": 2
     },
     {
       "category": "fjellvettreglene",
       "title": "Fjellvettreglene",
       "file": "articles/fjellvettreglene/fjellvettreglene.md",
       "checksum": "d368da83dddcefb6",
-      "id": 7,
+      "id": 8,
       "sortOrder": 1
     },
     {
@@ -63,7 +71,7 @@
       "title": "Grunnleggende førstehjelp på tur",
       "file": "articles/forstehjelp/grunnleggende-forstehjelp-pa-tur.md",
       "checksum": "1908f41fcc56810b",
-      "id": 8,
+      "id": 9,
       "sortOrder": 1
     },
     {
@@ -71,7 +79,7 @@
       "title": "Vanlige turskader",
       "file": "articles/forstehjelp/vanlige-turskader.md",
       "checksum": "aa2230d522f1665f",
-      "id": 9,
+      "id": 10,
       "sortOrder": 2
     },
     {
@@ -79,31 +87,15 @@
       "title": "Farlige sopp i norsk skog",
       "file": "articles/giftigeArter/farlige-sopp-i-norsk-skog.md",
       "checksum": "9610415053bf96d8",
-      "id": 10,
-      "sortOrder": 1
-    },
-    {
-      "category": "ly",
-      "title": "Bygg nødly i naturen",
-      "file": "articles/ly/bygg-nodly-i-naturen.md",
-      "checksum": "a932211e603723a6",
       "id": 11,
       "sortOrder": 1
-    },
-    {
-      "category": "ly",
-      "title": "Velge riktig leirplass",
-      "file": "articles/ly/velge-riktig-leirplass.md",
-      "checksum": "434c2837a7dda580",
-      "id": 12,
-      "sortOrder": 2
     },
     {
       "category": "mat",
       "title": "Brennstoff for langtur",
       "file": "articles/mat/brennstoff-for-langtur.md",
-      "checksum": "8c79beeb538c8238",
-      "id": 13,
+      "checksum": "be088caef57a463d",
+      "id": 12,
       "sortOrder": 1
     },
     {
@@ -111,7 +103,7 @@
       "title": "Energiunderskudd i kulde",
       "file": "articles/mat/energiunderskudd-i-kulde.md",
       "checksum": "8f4dcc4a98e74ee9",
-      "id": 14,
+      "id": 13,
       "sortOrder": 2
     },
     {
@@ -119,7 +111,7 @@
       "title": "Fiske uten utstyr",
       "file": "articles/mat/fiske-uten-utstyr.md",
       "checksum": "905dfdf0e85a2116",
-      "id": 15,
+      "id": 14,
       "sortOrder": 3
     },
     {
@@ -127,7 +119,7 @@
       "title": "Spiselige planter i norsk natur",
       "file": "articles/mat/spiselige-planter-i-norsk-natur.md",
       "checksum": "bab0dbd94f6cf9a8",
-      "id": 16,
+      "id": 15,
       "sortOrder": 4
     },
     {
@@ -135,7 +127,7 @@
       "title": "Mentale strategier på tur",
       "file": "articles/mentaleStrategier/mentale-strategier-pa-tur.md",
       "checksum": "1aa8fa4de799b92a",
-      "id": 17,
+      "id": 16,
       "sortOrder": 1
     },
     {
@@ -143,7 +135,7 @@
       "title": "Nødprosedyrer og signalering",
       "file": "articles/nodprosedyrer/nodprosedyrer-og-signalering.md",
       "checksum": "80d84ab92108b936",
-      "id": 18,
+      "id": 17,
       "sortOrder": 1
     },
     {
@@ -151,7 +143,7 @@
       "title": "Varsle i nødsituasjon",
       "file": "articles/nodprosedyrer/varsle-i-nodsituasjon.md",
       "checksum": "5925da6ae8f768f9",
-      "id": 19,
+      "id": 18,
       "sortOrder": 2
     },
     {
@@ -159,7 +151,7 @@
       "title": "Bruke kart og kompass",
       "file": "articles/orientering/bruke-kart-og-kompass.md",
       "checksum": "a6640c7c8a890bc6",
-      "id": 20,
+      "id": 19,
       "sortOrder": 1
     },
     {
@@ -167,7 +159,7 @@
       "title": "Finn veien uten kart og kompass",
       "file": "articles/orientering/finn-veien-uten-kart-og-kompass.md",
       "checksum": "9d5e22e984427393",
-      "id": 21,
+      "id": 20,
       "sortOrder": 2
     },
     {
@@ -175,7 +167,7 @@
       "title": "Allemannsretten på tur",
       "file": "articles/rettigheter/allemannsretten-pa-tur.md",
       "checksum": "199bece2df0faf85",
-      "id": 22,
+      "id": 21,
       "sortOrder": 1
     },
     {
@@ -183,7 +175,7 @@
       "title": "Fottøy om vinteren",
       "file": "articles/utstyr/fottoy-om-vinteren.md",
       "checksum": "a72e77d4ddeb6a8a",
-      "id": 23,
+      "id": 22,
       "sortOrder": 1
     },
     {
@@ -191,7 +183,7 @@
       "title": "Strøm på tur",
       "file": "articles/utstyr/strom-pa-tur.md",
       "checksum": "9ac2e9f853582fbd",
-      "id": 24,
+      "id": 23,
       "sortOrder": 2
     },
     {
@@ -199,7 +191,7 @@
       "title": "Elvekryssing og vannfare",
       "file": "articles/vann/elvekryssing-og-vannfare.md",
       "checksum": "dd2089335d7cc491",
-      "id": 25,
+      "id": 24,
       "sortOrder": 1
     },
     {
@@ -207,7 +199,7 @@
       "title": "Finne og rense drikkevann",
       "file": "articles/vann/finne-og-rense-drikkevann.md",
       "checksum": "683e7a829b0b211d",
-      "id": 26,
+      "id": 25,
       "sortOrder": 2
     },
     {
@@ -215,7 +207,7 @@
       "title": "Vannkilder i naturen",
       "file": "articles/vann/vannkilder-i-naturen.md",
       "checksum": "af542e844a03bfb4",
-      "id": 27,
+      "id": 26,
       "sortOrder": 3
     },
     {
@@ -223,7 +215,7 @@
       "title": "Bekledningsdisiplin",
       "file": "articles/varme/bekledningsdisiplin.md",
       "checksum": "3d1b6e3860ae7eaa",
-      "id": 28,
+      "id": 27,
       "sortOrder": 1
     },
     {
@@ -231,7 +223,7 @@
       "title": "Forebygg og håndter hypotermi",
       "file": "articles/varme/forebygg-og-handter-hypotermi.md",
       "checksum": "e862d3944ec17cdb",
-      "id": 29,
+      "id": 28,
       "sortOrder": 2
     },
     {
@@ -239,7 +231,7 @@
       "title": "Kameratsjekk og kuldeskader",
       "file": "articles/varme/kameratsjekk-og-kuldeskader.md",
       "checksum": "a4704426acc1b474",
-      "id": 30,
+      "id": 29,
       "sortOrder": 3
     },
     {
@@ -247,7 +239,7 @@
       "title": "Lage bål",
       "file": "articles/varme/lage-bal.md",
       "checksum": "8b82b3ca0defc4b2",
-      "id": 31,
+      "id": 30,
       "sortOrder": 4
     },
     {
@@ -255,7 +247,7 @@
       "title": "Tørke klær uten bål",
       "file": "articles/varme/torke-klaer-uten-bal.md",
       "checksum": "ffb76b59b92e264f",
-      "id": 32,
+      "id": 31,
       "sortOrder": 5
     },
     {
@@ -263,7 +255,7 @@
       "title": "Luftkvalitet",
       "file": "articles/vaer/luftkvalitet.md",
       "checksum": "16200d473b450e4c",
-      "id": 33,
+      "id": 32,
       "sortOrder": 1
     },
     {
@@ -271,7 +263,7 @@
       "title": "Lufttrykk",
       "file": "articles/vaer/lufttrykk.md",
       "checksum": "79ccba713cf78a95",
-      "id": 34,
+      "id": 33,
       "sortOrder": 2
     },
     {
@@ -279,7 +271,7 @@
       "title": "Nedbør",
       "file": "articles/vaer/nedbor.md",
       "checksum": "de4407c6cbb46c2e",
-      "id": 35,
+      "id": 34,
       "sortOrder": 3
     },
     {
@@ -287,7 +279,7 @@
       "title": "UV-stråling",
       "file": "articles/vaer/uv-straling.md",
       "checksum": "b77cedb84239162a",
-      "id": 36,
+      "id": 35,
       "sortOrder": 4
     },
     {
@@ -295,8 +287,24 @@
       "title": "Vind og Beaufortskalaen",
       "file": "articles/vaer/vind-og-beaufortskalaen.md",
       "checksum": "d7ae4c087c90fb50",
-      "id": 37,
+      "id": 36,
       "sortOrder": 5
+    },
+    {
+      "category": "ly i naturen",
+      "title": "Velge riktig leirplass",
+      "file": "articles/ly/velge-riktig-leirplass.md",
+      "checksum": "dd3e588c427f9051",
+      "id": 37,
+      "sortOrder": 1
+    },
+    {
+      "category": "ly og overnatting",
+      "title": "Bygg ly i naturen",
+      "file": "articles/ly/bygg-ly-i-naturen.md",
+      "checksum": "055cf4ef3c6e3147",
+      "id": 38,
+      "sortOrder": 1
     }
   ]
 }

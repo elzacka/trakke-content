@@ -1,6 +1,6 @@
 ## Beredskap
 
-### Informasjon uten strøm og telefon
+### Informasjon og kommunikasjon
 Krisesituasjoner er uoversiktlige. Forbered deg på hvordan du får informasjon hvis strøm, mobilnett eller telefon slutter å fungere.
 
 #### DAB-radio med batterier
