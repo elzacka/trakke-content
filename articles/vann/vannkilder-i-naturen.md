@@ -1,8 +1,7 @@
 ## Vann
 
-### Vannkilder i fjellet
-
-Norske fjell har rikelig med ferskvann, men ikke alt vann er trygt å drikke. Lær å vurdere vannkilden før du drikker.
+### Vannkilder i naturen
+Selv om det er god tilgang på ferskvann i norsk natur er det ikke alt som er trygt å drikke. Lær å vurdere vannkilden før du drikker.
 
 #### Trygge vannkilder
 
@@ -22,11 +21,9 @@ Norske fjell har rikelig med ferskvann, men ikke alt vann er trygt å drikke. L�
 | Brevann | Smeltevann fra breer kan inneholde mikroorganismer. Rens alltid. |
 
 #### Brunt vann
-
 Brun farge i vann skyldes ofte humus (nedbrutt plantemateriale) og er ikke farlig i seg selv. Filtrering fjerner fargen.
 
 #### Planlegging
-
 Planlegg ruten med tanke på vannkilder. Sjekk kartet for bekker og vann langs traseen, og fyll opp flaskene når du passerer sikre kilder.
 
 For rensemetoder, se artikkelen *Finne og rense drikkevann*.
@@ -34,7 +31,6 @@ For rensemetoder, se artikkelen *Finne og rense drikkevann*.
 ---
 
 **Kilder**
-
 
 - [DNT / Fjell og Vidde — Vannvett](https://fjellogvidde.dnt.no/ut-pa-tur/vannvett/)
 - [Fjellstyrene — Er det trygt å drikke vann i fjellet?](https://www.fjellstyrene.no/aktuelt/er-det-trygt-drikke-vann-i-fjellet)

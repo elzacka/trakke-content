@@ -1,7 +1,6 @@
 ## Fjellvettreglene
 
 ### Fjellvettreglene
-
 Fjellvettreglene hjelper deg å planlegge og gjennomføre en trygg tur.
 
 1. Planlegg turen og meld fra hvor du går.
@@ -17,6 +16,5 @@ Fjellvettreglene hjelper deg å planlegge og gjennomføre en trygg tur.
 ---
 
 **Kilde**
-
 
 [DNT — Fjellvettreglene](https://www.dnt.no/fjellvettreglene/)

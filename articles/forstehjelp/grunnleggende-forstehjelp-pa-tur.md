@@ -1,23 +1,21 @@
 ## Førstehjelp
 
 ### Grunnleggende førstehjelp på tur
-
-Denne artikkelen handler om situasjoner der liv og helse kan stå på spill — situasjoner der du bør ringe **113**. I naturen er du ofte langt fra sykehus, og det du gjør de første minuttene kan redde liv. Ring **113** først — start førstehjelp mens du venter på hjelp.
+*Denne artikkelen handler om situasjoner der liv og helse kan stå på spill — situasjoner der du bør ringe **113***.
+I naturen er du ofte langt fra sykehus, og det du gjør de første minuttene kan redde liv. Ring **113** først — start førstehjelp mens du venter på hjelp.
 
 #### Sjekk i denne rekkefølgen (ABCDE)
-
 Helsepersonell bruker ABCDE-prinsippet for å prioritere livstruende tilstander. Bokstavene står for Airway (luftveier), Breathing (pusting), Circulation (sirkulasjon), Disability (nevrologisk status) og Exposure (eksponering).
 
 I praksis betyr det:
 
 1. **Luftveier:** Sjekk at luftveiene er frie. Bøy hodet forsiktig bakover.
 2. **Pusting:** Se, lytt og kjenn etter pust i opptil 10 sekunder.
-3. **Sirkulasjon:** Ved hjertestans — start HLR (se under).
+3. **Sirkulasjon:** Ved hjertestans — start hjerte- og lungeredning (se under).
 4. **Bevissthet:** Er personen våken? Reagerer på stemme? På smerte? Ingen respons?
 5. **Eksponering:** Beskytt mot kulde og vær. Undersøk hele kroppen for skader.
 
 #### Hjerte- og lungeredning (HLR)
-
 Hvis personen ikke puster normalt:
 
 1. Ring **113**.
@@ -26,7 +24,6 @@ Hvis personen ikke puster normalt:
 4. Fortsett 30:2 til ambulansepersonell overtar eller du ser sikre tegn til liv.
 
 #### Sideleie
-
 Hvis personen er bevisstløs men puster normalt:
 
 1. Legg personen på siden.
@@ -42,13 +39,14 @@ Hvis personen er bevisstløs men puster normalt:
 4. Ved store kutt: Stappe kompressen ned i kuttet for å trykke sammen vevene.
 
 #### Viktig
-
 Hold den skadede varm og overvåk pusten kontinuerlig mens du venter på hjelp.
+
+#### Kullosforgiftning
+Se «Bygg nødly i naturen».
 
 ---
 
 **Kilder**
-
 
 - [Helsenorge — Førstehjelp](https://www.helsenorge.no/forstehjelp/)
 - [Røde Kors — Bevisstløshet og sideleie](https://www.rodekors.no/forstehjelp/tema/bevisstloshet/)

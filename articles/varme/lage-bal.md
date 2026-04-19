@@ -1,7 +1,6 @@
 ## Varme og kulde
 
 ### Lage bål
-
 Å kunne tenne bål uten fyrstikker er en viktig ferdighet for friluftsliv. Det handler om å finne riktig materiale og bruke en pålitelig tennmetode.
 
 #### Naturlig tennmateriale
@@ -15,13 +14,13 @@
 
 - **Tennbriketter**: Enkle og pålitelige.
 - **Stormstikker eller fyrstikker**: Viktig når det blåser eller regner.
-- **Tennstål**: Gir gnister av svært høy temperatur, uavhengig av vær.
+- **Tennstål**: Den sikreste og vanligste metoden uten fyrstikker. Gir kraftige gnister som tenner bjørkenever og knivskrapt tre.
 - **Bomullspads med vaselin**: En klassisk, hjemmelaget løsning som tar fyr lett.
 - **Tamponger**: Rufses opp og legges i bålet. Fungerer godt sammen med tennstål.
 - **Stearinlysstumper**: Ta vare på stumper og bruk dem sammen med annet tennmateriale.
+- **Brennglass**: Fokuser sollys med en lupe, brilleglass eller glassflaske. Krever direkte sol.
 
 #### Samle og tørke bjørkenever
-
 Bjørkenever er et av de beste tennmaterialene.
 
 - Plukk om våren (mars–mai) når sevja stiger og barken løsner lett.
@@ -30,14 +29,7 @@ Bjørkenever er et av de beste tennmaterialene.
 - Tørk neveren luftig innendørs i noen dager til et par uker.
 
 #### Finn tørr ved
-
 Kløyv tykkere vedkubber — innsiden er tørr selv i regnvær. Død gran som fortsatt står, er vanligvis den tørreste veden du finner i skogen.
-
-#### Tennmetoder uten fyrstikker
-
-- **Tennstål**: Den sikreste og vanligste metoden uten fyrstikker. Gir kraftige gnister som tenner bjørkenever og knivskrapt tre.
-- **Friksjonsmetoden**: Bruk en buedrill eller lignende for å lage gnist med friksjon. Krever mye øvelse.
-- **Brennglass**: Fokuser sollys med en lupe, brilleglass eller vannflaske. Krever direkte sol.
 
 #### Båltyper
 
@@ -83,14 +75,12 @@ Del to tørre, barkfrie furustokker. Hogg begge flate på langsiden. Legg dem op
 
 Velg furu fremfor gran til nying-bål — gran kan lage mye gnister. Veden bør ikke være for tørr, ellers brenner den for fort.
 
-#### Regler for bål i naturen
-
+#### Bålforbud — tidsperiode
 Det er bålforbud i Norge fra 15. april til 15. september. Unntak gjelder på snødekt mark, ved vedvarende regn, og på etablerte bål- og grillplasser.
 
 ---
 
 **Kilder**
-
 
 - [DNT — Bål: når, hvor og hvordan](https://www.dnt.no/turtips/turvett/artikler/bal-nar-hvor-og-hvordan/)
 - [Friflyt — Lag et godt vinterbål](https://www.friflyt.no/fjelltur/uteskole/lag-et-godt-vinterbal)

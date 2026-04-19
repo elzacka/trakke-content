@@ -1,11 +1,9 @@
 ## Førstehjelp
 
 ### Vanlige turskader
-
 De fleste turskader er ikke farlige, men riktig behandling gjør forskjellen mellom å fortsette turen og å måtte snu.
 
 #### Førstehjelpsutstyr på tur
-
 Ha med det viktigste i sekken:
 
 - Plaster og bandasje
@@ -16,13 +14,11 @@ Ha med det viktigste i sekken:
 - Smertestillende tabletter
 
 #### Blemmer
-
 Forebygg med sportstape eller gnagsårplaster der skoene trykker. Bruk to par sokker — tynne innerst. Gå inn nye sko før lengre turer.
 
 Hvis du får en blemme: Hold såret tørt og dekk med sportstape eller gnagsårplaster. La plasteret sitte til det faller av naturlig.
 
 #### Forstuinger
-
 Start behandling så raskt som mulig, helst innen 10 minutter. Følg PRICE-prinsippet — Protection (beskyttelse), Rest (hvile), Ice (nedkjøling), Compression (kompresjon) og Elevation (heve).
 
 | Bokstav | Tiltak |
@@ -45,20 +41,16 @@ Kan du belaste foten? Test forsiktig. Bruk en stokk som støtte.
 Før du drar på tur er det lurt å sjekke at stivkrampevaksinen er oppdatert — den bør fornyes hvert 10. år.
 
 #### Solbrenthet
-
 Bruk solkrem med minimum solfaktor 30. Vann, snø og sand reflekterer UV-stråling og øker faren for solbrenthet.
 
 Oppsøk lege ved alvorlig solbrenthet med store blemmer.
 
 #### Insektstikk og flåttbitt
-
-Se «Møte dyr i naturen».
+Se «Dyremøter og insektbitt».
 
 ---
 
 **Kilder**
-
-
 
 - [FHI — Sol og solvett](https://www.fhi.no/kl/straling/sol-og-solvett/)
 - [FHI — Stivkrampevaksine](https://www.fhi.no/va/barnevaksinasjonsprogrammet/vaksinene-i-barnevaksinasjonsprogrammet/vaksine-mot-difteri-stivkrampe-kikhoste-og-poliomyelitt/)

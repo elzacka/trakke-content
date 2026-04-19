@@ -1,8 +1,7 @@
 ## Mat
 
 ### Spiselige planter i norsk natur
-
-Naturen i Norge byr på flere spiselige planter, men du må være sikker på identifiseringen før du spiser noe.
+Norsk natur byr på flere spiselige planter, men du må være sikker på identifiseringen før du spiser noe.
 
 #### Blåbær (*Vaccinium myrtillus*)
 
@@ -45,8 +44,7 @@ Hele planten er spiselig — blader, blomster og rot. Unge blader er minst bitre
 Unge blader smaker mildt, litt som persille. Kan forveksles med giftige skjermplanter — plukk bare hvis du er helt sikker.
 
 #### Forvekslingsfarer
-
-Ramsløk kan forveksles med liljekonvall, som er giftig. Sjekk alltid lukten: ramsløk lukter hvitløk, liljekonvall har ingen karakteristisk lukt.
+Ramsløk kan forveksles med liljekonvall, som er giftig. Sjekk alltid lukten: Ramsløk lukter hvitløk, liljekonvall har ingen karakteristisk lukt.
 
 Skvallerkål kan forveksles med andre skjermplanter, inkludert giftige arter. Plukk bare hvis du kjenner planten godt.
 
@@ -59,13 +57,11 @@ Skvallerkål kan forveksles med andre skjermplanter, inkludert giftige arter. Pl
 5. Sjekk Norsk rødliste — noen arter er truede og fredede.
 
 #### I en nødsituasjon
-
 Bær, nesle og løvetann er de tryggeste valgene fordi de er lette å identifisere og finnes nesten overalt i Norge under tregrensen.
 
 ---
 
 **Kilder**
-
 
 - [Geitmyra — 10 bud til sanking](https://www.geitmyra.no/blogg-geitmyra/2021/4/12/10-bud-til-sanking)
 - [Snu i tide — Mat fra naturen: ville vekster](https://snuitide.no/innhold/mat/mat-fra-naturen-ville-vekster)

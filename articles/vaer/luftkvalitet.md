@@ -1,11 +1,9 @@
 ## Vær
 
 ### Luftkvalitet
-
-Luftkvaliteten påvirker helsa di, særlig under fysisk aktivitet utendørs. I fjellet er luften nesten alltid god, men i byer og daler kan den være dårlig.
+Luftkvaliteten påvirker helsa di, særlig under fysisk aktivitet utendørs. I naturen — og spesielt i fjellet, er luften nesten alltid god, men i byer og daler kan den være dårlig.
 
 #### Forurensningsnivåer
-
 Miljødirektoratet klassifiserer luftkvalitet i fire nivåer:
 
 | Nivå | Fargekode | Hva det betyr |
@@ -17,11 +15,11 @@ Miljødirektoratet klassifiserer luftkvalitet i fire nivåer:
 
 #### De viktigste forurensningsstoffene
 
-| Stoff | Kilde og egenskap |
-|---|---|
-| PM2.5 og PM10 | Svevestøv — fine partikler fra trafikk, vedfyring og langtransport. |
-| NO₂ | Fra trafikk og forbrenning. Irriterer luftveiene. |
-| O₃ | Dannes i solrike perioder. Kan irritere luftveiene. |
+| Stoff         | Kilde og egenskap                                                  |
+| ------------- | ------------------------------------------------------------------ |
+| PM2.5 og PM10 | Svevestøv: Fine partikler fra trafikk, vedfyring og langtransport. |
+| NO₂           | Nitrogendioksid: Fra trafikk og forbrenning. Irriterer luftveiene. |
+| O₃            | Bakkenær ozon: Dannes i solrike perioder. Kan irritere luftveiene. |
 
 #### Når er luften dårligst?
 
@@ -33,13 +31,11 @@ Miljødirektoratet klassifiserer luftkvalitet i fire nivåer:
 | Kalde perioder med lite vind | Vedfyring gir dårlig luft i tettbygde strøk. |
 
 #### Over tregrensen
-
 Over tregrensen er luftkvaliteten nesten alltid god. Fjellvandring gir som regel ren luft.
 
 ---
 
 **Kilder**
-
 
 - [Luftkvalitet i Norge — Miljødirektoratet](https://luftkvalitet.miljodirektoratet.no/)
 - [MET — Sjekk luftkvaliteten i ditt område](https://www.met.no/nyhetsarkiv/sjekk-luftkvaliteten-i-ditt-omrade)

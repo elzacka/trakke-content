@@ -1,8 +1,7 @@
 ## Ly
 
 ### Velge riktig leirplass
-
-Hvor du setter opp leir kan utgjøre forskjellen mellom en god og en farlig natt ute.
+Hvor du setter opp leir kan utgjøre forskjellen mellom en god og en dårlig (i noen tilfeller farlig) natt ute.
 
 #### Gode leirplasser
 
@@ -15,16 +14,16 @@ Hvor du setter opp leir kan utgjøre forskjellen mellom en god og en farlig natt
 
 #### Steder du bør unngå
 
-| Sted | Fare |
-|---|---|
-| Under alleenstående trær | Lynnedslag. |
-| I tørre elveløp | Kan oversvømmes ved plutselig regn. |
-| Under bratte skrenter | Steinsprang og ras. |
-| I forsenkninger i fjellet | Kald luft samler seg her — det kan bli mange grader kaldere enn bare noen meter høyere. |
+| Sted                                 | Fare                                                                                    |
+| ------------------------------------ | --------------------------------------------------------------------------------------- |
+| Under alleenstående trær             | Lynnedslag.                                                                             |
+| Under døde eller råtnende trær       | De kan falle over deg.                                                                  |
+| I tørre elveløp                      | Kan oversvømmes ved plutselig regn.                                                     |
+| Under bratte skrenter                | Steinsprang og ras                                                                      |
+| I forsenkninger i fjellet            | Kald luft samler seg her — det kan bli mange grader kaldere enn bare noen meter høyere. |
 
 #### Isolasjon fra bakken
-
-Du mister mer varme nedover til bakken enn oppover. Prioriter alltid isolasjon under deg: liggeunderlag, granbar i tykke lag, tørt løv eller mose.
+Du mister mer varme nedover til bakken enn oppover. Prioriter alltid isolasjon under deg: Liggeunderlag, granbar i tykke lag, tørt løv eller mose.
 
 #### Sjekkliste
 
@@ -37,7 +36,6 @@ Du mister mer varme nedover til bakken enn oppover. Prioriter alltid isolasjon u
 ---
 
 **Kilder**
-
 
 - [DNT — Tips til teltturen](https://www.dnt.no/turtips/turvett/artikler/Tips-til-teltturen/)
 - [Snu i tide — Overnatting](https://snuitide.no/innhold/overnatting)

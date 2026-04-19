@@ -1,11 +1,9 @@
 ## Varme og kulde
 
 ### Forebygg og håndter hypotermi
-
 Hypotermi oppstår når kroppens kjernetemperatur synker under 35 °C. Kroppen mister da evnen til å varme seg selv. Oppdager du tegnene tidlig, kan du handle før situasjonen blir alvorlig.
 
 #### Tidlige tegn å se etter på tur
-
 Disse tegnene kan komme før personen selv innser at noe er galt: Irritabilitet, uvanlig stillhet, tilbaketrukket atferd, usikker gange, dårlig appetitt, skjelving eller tannklapring under pauser.
 
 #### Symptomer — gradvis forverring
@@ -44,7 +42,6 @@ Hvis personen ikke puster: Start hjerte- og lungeredning. Gi 30 brystkompresjone
 ---
 
 **Kilder**
-
 
 - [Helsenorge — Førstehjelp ved nedkjøling](https://www.helsenorge.no/forstehjelp/forstehjelp-ved-nedkjoling/)
 - [NHI — Nedkjøling og hypotermi](https://nhi.no/forstehjelp/akuttmedisin/varmekulde-skader/nedkjoling-hypotermi)

@@ -1,11 +1,9 @@
 ## Vær
 
 ### Vind og Beaufortskalaen
-
 Vind er luft i bevegelse langs jordoverflaten. For friluftsliv er vindstyrke og vindretning avgjørende for valg av rute, bekledning og om turen bør gjennomføres.
 
 #### Hvordan måles vind?
-
 Vedvarende vind er gjennomsnittet over 10 minutter, målt i meter per sekund (m/s). Vindkast er den høyeste middelverdien over 3 sekunder.
 
 Over åpent hav er vindkast typisk 30 % sterkere enn vedvarende vind. Over skog og bebyggelse kan kastene bli opptil dobbelt så sterke, men da er middelvinden også kraftig redusert.
@@ -29,7 +27,6 @@ Over åpent hav er vindkast typisk 30 % sterkere enn vedvarende vind. Over skog 
 | 12 | Over 32,6 | Orkan | Forekommer meget sjelden. Uvanlig store ødeleggelser. |
 
 #### Vindretning
-
 Vindretning angir hvor vinden kommer fra. I Norge gir vindretningen en pekepinn på hva slags vær som er i vente:
 
 | Retning | Luftmasse |
@@ -40,7 +37,6 @@ Vindretning angir hvor vinden kommer fra. I Norge gir vindretningen en pekepinn 
 | Nordvest | Ustabilt vær med raske skifter og byger. |
 
 #### Vind i fjellet
-
 Vindens fart øker med høyden. Over tregrensen er det ofte vesentlig sterkere vind enn i dalen. Fjorder og trange daler kanaliserer vinden og kan gi uventet sterke vindkast.
 
 Skader oppstår ved vindkast over 20 m/s. Ved 30 m/s blir skadene betydelige.
@@ -48,13 +44,11 @@ Skader oppstår ved vindkast over 20 m/s. Ved 30 m/s blir skadene betydelige.
 MET sender oransje farevarsel ved vindkast rundt 25–35 m/s, og rødt ved kast over 35–40 m/s. Tersklene varierer med sesong og geografi.
 
 #### Når er det for mye vind?
-
 Fra stiv kuling (Beaufort 7, 13,9 m/s) er det tungt å gå mot vinden. Fra sterk kuling (Beaufort 8, 17,2 m/s) brekker kvister av trærne. Bruk kjennetegnene i tabellen til å vurdere forholdene der du er.
 
 ---
 
 **Kilder**
-
 
 - [SNL — Beauforts vindskala](https://snl.no/Beauforts_vindskala)
 - [SNL — Vind](https://snl.no/vind)

@@ -1,7 +1,6 @@
 ## Dyr
 
 ### Møte dyr i naturen
-
 Norge har få farlige dyr, men noen dyremøter krever kunnskap og riktig oppførsel. Hovedregelen er enkel: Hold avstand, opptre rolig, og la dyret være i fred.
 
 #### Elg
@@ -26,23 +25,23 @@ Hvis bjørnen angriper og du ikke har andre muligheter: Legg deg ned i fostersti
 
 ![Hoggorm](species:Vipera berus)
 
-Hoggorm (*Vipera berus*) er Nord-Europas eneste giftslange. Voksne måler typisk 50–70 cm og har et mørkt sikksakkmønster langs ryggen. Fargen varierer fra lys grålig til helt svart. Hoggormen foretrekker tørre, varme steder — soldekte skråninger og steinur.
+Hoggorm er Nord-Europas eneste giftslange. Voksne måler typisk 50–70 cm og har et mørkt sikksakkmønster langs ryggen. Fargen varierer fra lys grålig til helt svart. Hoggormen foretrekker tørre, varme steder — soldekte skråninger og steinur.
 
 De fleste hoggormsbitt forårsaker forbigående sykdom. Dødsfall er ekstremt sjelden. Gifttennene (3–4 mm) kan ikke trenge gjennom tykke sko eller strømper.
 
 De fleste bitt forårsaker forbigående sykdom — hold deg rolig og ring **113**.
 
-#### Flått
-
-Borreliose er den vanligste flåttbårne sykdommen i Norge. Hvis flåtten fjernes innen 24 timer, minker smitterisikoen betydelig.
+#### Flått og berreliose
+Borreliose er den vanligste flåttbårne sykdommen i Norge. Oppdager du en flått må du fjerne den så fort som mulig.  Hvis flåtten fjernes innen 24 timer, minker smitterisikoen betydelig.
 
 1. Sjekk hele kroppen etter tur.
-2. Fjern flåtten ved å trekke den rett ut med pinsett. Fjern den innen 24 timer.
-3. Merk dato og sted for bittet.
-4. Oppsøk lege ved et rødt utslag som sprer seg fra bittstedet. Det oppstår typisk 3–30 dager etter bittet og er vanligvis større enn 5 cm.
+2. Fjern flåtten med pinsett eller flåttfjerner. Bruk fingrene/neglene hvis du ikke har.
+3. Ta tak så nærme huden som mulig og dra rett ut.
+4. Vask gjerne området med såpe og vann.
+5. Noter dato, sted (på kroppen) for bittet.
+6. Oppsøk lege ved et rødt utslag som sprer seg fra bittstedet. Det oppstår typisk 3–30 dager etter bittet og er vanligvis større enn 5 cm.
 
 #### Veps og bie
-
 Stikk fra veps og bie gir sjelden alvorlig forgiftning, men kan utløse livsfarlige allergiske reaksjoner hos mottakelige personer.
 
 Fjern brodden hvis den sitter igjen. Kjøl ned med is eller kaldt vann.
@@ -52,7 +51,6 @@ Ring **113** ved tegn på alvorlig allergisk reaksjon.
 ---
 
 **Kilder**
-
 
 - [Helsenorge — Flåttbitt og borreliose](https://www.helsenorge.no/sykdom/infeksjon-og-betennelse/borreliose/)
 - [Helsenorge — Vepse-, bie- og humlestikk](https://www.helsenorge.no/giftinformasjon/giftige-bitt-og-stikk/veps-bie-og-humlestikk/)

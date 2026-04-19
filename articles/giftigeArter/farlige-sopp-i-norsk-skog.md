@@ -34,16 +34,15 @@ Inneholder amatoksiner — samme type gift som hvit fluesopp. Symptomene kommer 
 
 #### Viktige regler
 
-1. Aldri spis sopp du ikke er sikker på.
+1. Spis aldri sopp du er usikker på.
 2. Alle de seks farligste soppene i Norge har blad under hatten. Sopp med rør eller pigger er tryggere valg.
-3. Ikke stol på husmorråd — de fungerer ikke for å skille giftig fra spiselig sopp.
+3. Ikke stol på «husmorråd» — de fungerer ikke for å skille giftig fra spiselig sopp.
 4. Ta med hele soppen til identifisering — inkludert stilkens bunn med eventuell slire.
 5. Ved mistanke om forgiftning: Ring Giftinformasjonen (22 59 13 00). Ta vare på rester av sopp, måltidet eller oppkast.
 
 ---
 
 **Kilder**
-
 
 - [Helsenorge — Grønn fluesopp](https://www.helsenorge.no/giftinformasjon/sopp/gronn-fluesopp-er-en-svart-giftig-sopp/)
 - [Helsenorge — Hvit fluesopp](https://www.helsenorge.no/giftinformasjon/sopp/hvit-fluesopp-er-en-svart-giftig-sopp/)

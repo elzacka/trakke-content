@@ -1,11 +1,9 @@
 ## Nødprosedyrer
 
 ### Nødprosedyrer og signalering
-
 Det du gjør de første minuttene kan avgjøre utfallet. Bevar roen. Panikk fører til dårlige beslutninger.
 
 #### Vurder situasjonen
-
 Stopp opp. Sett deg ned, pust rolig, og vurder nøkternt: Er noen skadet? Hvordan er vær- og lysforholdene? Hva har du av utstyr, mat og vann? Vet noen hvor du er?
 
 #### Bli eller beveg deg?
@@ -20,7 +18,6 @@ Stopp opp. Sett deg ned, pust rolig, og vurder nøkternt: Er noen skadet? Hvorda
 Unngå å vandre formålsløst — det bruker energi og gjør det vanskeligere for redningsmannskap å finne deg.
 
 #### Prioriter riktig
-
 I en nødsituasjon er rekkefølgen:
 
 1. **Sikkerhet.** Fjern deg fra umiddelbar fare (ras, flom, lynnedslag).
@@ -30,7 +27,6 @@ I en nødsituasjon er rekkefølgen:
 5. **Signalering.** Gjør deg synlig og hørbar for redningsmannskap.
 
 #### Nødsignaler
-
 Tre like signal er internasjonalt nødsignal — tre fløytestøt, tre lysblink eller tre bål.
 
 | Metode              | Hvordan                                                                                      |
@@ -40,7 +36,6 @@ Tre like signal er internasjonalt nødsignal — tre fløytestøt, tre lysblink 
 | Speil eller refleks | Sikt mot helikopter i sollys.                                                                |
 
 #### Signaler til helikopter
-
 Stå i åpent terreng, unna trær.
 
 | Signal | Betydning |
@@ -53,7 +48,6 @@ Du kan også lage bakkemerker med steiner, kvister eller klær i åpent terreng.
 ---
 
 **Kilder**
-
 
 - [European Hiking Federation — Hiking Emergency Procedures](https://www.era-ewv-ferp.org/hiking-emergency-procedures/)
 - [SnowBrains — How to Signal a Rescue Helicopter](https://snowbrains.com/learn-how-to-properly-signal-a-rescue-helicopter/)

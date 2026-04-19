@@ -1,11 +1,9 @@
 ## Vær
 
 ### Nedbør
-
 Nedbør er vann i flytende eller fast form som faller til jordoverflaten. For friluftsliv er det viktig å forstå både hvor mye som kommer og hvilken type det er.
 
 #### Hvordan måles nedbør?
-
 Nedbør måles i millimeter (mm). Én millimeter tilsvarer én liter vann per kvadratmeter.
 
 MET bruker disse kategoriene i varslene:
@@ -31,7 +29,6 @@ Kraftige byger har en intensitet på minst 10–20 mm/t, avhengig av sted.
 | Over 15 | Svært kraftig nedbør | Fare for flom. Unngå bekkedaler og lavpunkter. |
 
 #### Nedbørstyper
-
 Hvilken type nedbør som faller, avhenger av temperaturen:
 
 | Type | Temperatur | Egenskap |
@@ -47,7 +44,6 @@ Yr.no skiller mellom byger (korte, lokale nedbørshendelser) og vedvarende nedb�
 ---
 
 **Kilder**
-
 
 - [MET — Begreper i værvarsling](https://www.met.no/vaer-og-klima/begreper-i-vaervarsling)
 - [SNL — Nedbør](https://snl.no/nedb%C3%B8r)
